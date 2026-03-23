@@ -14,4 +14,4 @@ Focus on Clean Architecture and Performance.
 * **[Vaca](https://github.com/ReilEgor/Vaca-backend)** — Recruitment system core.
 
 ### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/yehor-reil-622543385) | [Telegram](https://t.me/YehorReil) | [Email](mailto:egorrejl44@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yehor-reil-622543385/) | [Telegram](https://t.me/YehorReil) | [Email](mailto:egorrejl44@gmail.com)
