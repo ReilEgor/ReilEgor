@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Yehor (ReilEgor) 👋
 
-<!--
-**ReilEgor/ReilEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ KPI (FIOT)** Building scalable applications with **Go** and **React**. 
+Focus on Clean Architecture and Performance.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+* **Backend:** Golang (Standard Library, Chi, Gin), Clean Architecture, gRPC, testify, mockery.
+* **Frontend:** React.
+* **Database & Cache:** PostgreSQL, Redis, MongoDB, Elasticsearch.
+* **Infrastructure:** Docker & Docker Compose, AWS (Iam, S3, EC2), RabbitMQ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+* **[FinScale](https://github.com/ReilEgor/FinScale-main)** — High-load financial platform.
+* **[Vaca](https://github.com/ReilEgor/Vaca-backend)** — Recruitment system core.
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/yehor-reil-622543385) | [Telegram](https://t.me/YehorReil) | [Email](mailto:egorrejl44@gmail.com)
